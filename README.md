@@ -48,6 +48,7 @@ The supported backends at the moment are:
 
 [QEMU]: https://www.qemu.org/
 [Firecracker]: https://firecracker-microvm.github.io/
+[Solo5]: https://github.com/Solo5/solo5
 
 
 ## Installation
